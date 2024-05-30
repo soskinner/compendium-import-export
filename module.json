@@ -16,7 +16,7 @@
     "media": [
       {
         "type": "cover",
-        "url": "https://yourdomain.com/media/thumbnails/compendium-import-export-cover.webp",
+        "url": "https://github.com/soskinner/compendium-import-export/blob/939e2fe06a434caf118bbc8fcc65ac029d9fa060/assets/images/obsidian.png",
         "loop": false,
         "flags": {}
       }
@@ -40,7 +40,7 @@
     },
     "socket": false,
     "protected": true,
-    "url": "https://yourwebsite.com",
-    "manifest": "https://foundryvtt.s3.your-region.amazonaws.com/modules/compendium-import-export/module.json"
+    "url": "https://github.com/soskinner/compendium-import-export",
+    "manifest": "https://github.com/soskinner/compendium-import-export/blob/939e2fe06a434caf118bbc8fcc65ac029d9fa060/module.json"
   }
   
