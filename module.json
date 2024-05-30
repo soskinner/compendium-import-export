@@ -22,24 +22,26 @@
       }
     ],
     "esmodules": [
-      "scripts.js"
+        "module/main.js", "module/settings.js"
     ],
-    "packs": [],
-    "packFolders": [],
-    "languages": [
-      {
-        "name": "English",
-        "lang": "en",
-        "path": "languages/en.json",
-        "flags": {}
-      }
+    "templates": [
+        "templates/import-export.html", "templates/splash.html"
+    ],
+    "styles": ["styles/styles.css"],
+    "packs": [
+        {
+            "name": "spells",
+            "label": "Cosmere Compendium",
+            "path": "./packs/cosmere-hs.db",
+            "entity": "Item",
+            "system": "dnd5e"
+          }
     ],
     "relationships": {
       "requires": [],
       "recommends": []
     },
     "socket": false,
-    "protected": true,
     "url": "https://github.com/soskinner/compendium-import-export",
     "manifest": "https://github.com/soskinner/compendium-import-export/blob/939e2fe06a434caf118bbc8fcc65ac029d9fa060/module.json"
   }

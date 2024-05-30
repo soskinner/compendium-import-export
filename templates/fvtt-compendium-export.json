@@ -1,0 +1,262 @@
+[
+  {
+    "folder": "XTGbsQQGobTQY2qP",
+    "name": "Adhesion",
+    "type": "spell",
+    "_id": "0UP5CKya3pIpB7vj",
+    "img": "systems/dnd5e/icons/svg/items/spell.svg",
+    "system": {
+      "description": {
+        "value": "<h3><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-1db74cbf-7fff-d75b-835f-58e74851592c\">This Invested Art is a minor Full Lashing Surge. You create one of the following effects:</strong></span></h3><ul style=\"margin-top:0;margin-bottom:0;padding-inline-start:48px\"><li dir=\"ltr\" style=\"list-style-type:disc;font-size:9pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-1db74cbf-7fff-d75b-835f-58e74851592c\">You can stick an object weighing no more than 5 pounds to a surface </strong></span></p></li><li dir=\"ltr\" style=\"list-style-type:disc;font-size:9pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-1db74cbf-7fff-d75b-835f-58e74851592c\">or another object. It is stuck for up to 1 minute. </strong></span></p></li><li dir=\"ltr\" style=\"list-style-type:disc;font-size:9pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-1db74cbf-7fff-d75b-835f-58e74851592c\">A creature can make a Strength (Athletics) check to pull it free. </strong></span></p></li><li dir=\"ltr\" style=\"list-style-type:disc;font-size:9pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-1db74cbf-7fff-d75b-835f-58e74851592c\">The DC is 8 + your proficiency bonus. I</strong></span></p></li><li dir=\"ltr\" style=\"list-style-type:disc;font-size:9pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-1db74cbf-7fff-d75b-835f-58e74851592c\">t is adhered with enough strength that it can hold a Medium creature. </strong></span></p></li><li dir=\"ltr\" style=\"list-style-type:disc;font-size:9pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-1db74cbf-7fff-d75b-835f-58e74851592c\">You can use Adhesion on the item again, while still stuck, </strong></span></p></li><li dir=\"ltr\" style=\"list-style-type:disc;font-size:9pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-1db74cbf-7fff-d75b-835f-58e74851592c\">to extend the time for another minute.</strong></span></p></li><li dir=\"ltr\" style=\"list-style-type:disc;font-size:9pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre\" aria-level=\"1\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-1db74cbf-7fff-d75b-835f-58e74851592c\">You can also use this Surge to stabilize one creature who is at 0 hit points, </strong></span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt\"><span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-1db74cbf-7fff-d75b-835f-58e74851592c\">adhering their wounds closed. This Invested Art has no effect on splinters or entities.</strong></span></p></li></ul>",
+        "chat": ""
+      },
+      "source": {},
+      "activation": {
+        "type": "bonus",
+        "cost": null,
+        "condition": ""
+      },
+      "duration": {
+        "value": "1",
+        "units": "minute"
+      },
+      "cover": null,
+      "crewed": false,
+      "target": {
+        "value": "",
+        "width": null,
+        "units": "",
+        "type": "self",
+        "prompt": true
+      },
+      "range": {
+        "value": null,
+        "long": null,
+        "units": "touch"
+      },
+      "uses": {
+        "value": null,
+        "max": "",
+        "per": "charges",
+        "recovery": "1d10",
+        "prompt": true
+      },
+      "consume": {
+        "type": "material",
+        "target": "",
+        "amount": null,
+        "scale": false
+      },
+      "ability": null,
+      "actionType": "",
+      "attack": {
+        "bonus": "",
+        "flat": false
+      },
+      "chatFlavor": "",
+      "critical": {
+        "threshold": null,
+        "damage": ""
+      },
+      "damage": {
+        "parts": [],
+        "versatile": ""
+      },
+      "enchantment": null,
+      "formula": "",
+      "save": {
+        "ability": "",
+        "dc": null,
+        "scaling": "spell"
+      },
+      "summons": null,
+      "level": 1,
+      "school": "evo",
+      "properties": [],
+      "materials": {
+        "value": "Stormlight",
+        "consumed": true,
+        "cost": 0,
+        "supply": 1
+      },
+      "preparation": {
+        "mode": "prepared",
+        "prepared": true
+      },
+      "scaling": {
+        "mode": "none",
+        "formula": ""
+      }
+    },
+    "effects": [],
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "mCWQkJlrQsvwJoXi": 3
+    },
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.2.0",
+      "coreVersion": "11.315",
+      "createdTime": 1717081175280,
+      "modifiedTime": 1717081392876,
+      "lastModifiedBy": "mCWQkJlrQsvwJoXi"
+    }
+  },
+  {
+    "folder": "SzvnEqNcQbnUXH72",
+    "name": "Alethi",
+    "type": "race",
+    "_id": "UPQ0IFuY4OUa4bzw",
+    "img": "systems/dnd5e/icons/svg/items/race.svg",
+    "system": {
+      "description": {
+        "value": "",
+        "chat": ""
+      },
+      "source": {},
+      "advancement": [
+        {
+          "type": "AbilityScoreImprovement",
+          "_id": "VEoiFFt4Oi3326ao",
+          "configuration": {
+            "points": 0,
+            "fixed": {},
+            "cap": 2
+          },
+          "value": {
+            "type": "asi"
+          },
+          "level": 0
+        },
+        {
+          "type": "Size",
+          "_id": "jXMfNx08vbl3ezVj",
+          "configuration": {
+            "sizes": [
+              "med"
+            ]
+          },
+          "level": 0,
+          "value": {}
+        },
+        {
+          "type": "Trait",
+          "configuration": {
+            "grants": [
+              "languages:standard:common"
+            ],
+            "mode": "default",
+            "allowReplacements": true,
+            "choices": [],
+            "hint": "Vorin"
+          },
+          "_id": "TsCRZYEjilloJiDe",
+          "value": {
+            "chosen": []
+          },
+          "level": 0,
+          "title": "",
+          "icon": null
+        }
+      ],
+      "movement": {
+        "burrow": null,
+        "climb": null,
+        "fly": null,
+        "swim": null,
+        "walk": null,
+        "units": null,
+        "hover": false
+      },
+      "senses": {
+        "darkvision": null,
+        "blindsight": null,
+        "tremorsense": null,
+        "truesight": null,
+        "units": null,
+        "special": ""
+      },
+      "type": {
+        "value": "humanoid"
+      },
+      "identifier": ""
+    },
+    "effects": [],
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "mCWQkJlrQsvwJoXi": 3
+    },
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.2.0",
+      "coreVersion": "11.315",
+      "createdTime": 1717081435759,
+      "modifiedTime": 1717081609453,
+      "lastModifiedBy": "mCWQkJlrQsvwJoXi"
+    }
+  },
+  {
+    "folder": "Fwubi8tmfYVKrw4j",
+    "name": "Radiant",
+    "type": "class",
+    "_id": "Vp6MjlHys0EMJFk6",
+    "img": "systems/dnd5e/icons/svg/items/class.svg",
+    "system": {
+      "description": {
+        "value": "<p>Surgebinding is a prime manifestation of Investiture on Roshar. Surgebinders can manipulate ten fundamental forces locally known as Surges, with each Surgebinder having access to two of the Surges with overlap between them, by infusing objects or beings with Stormlight.  Each Surgebinder's Surges come in a set combination; for example, it is possible to have the Surges of Progression and Illumination or Progression and Abrasion, but not Progression and Gravitation. It is often considered one of the most powerful Invested Arts in the cosmere,  so much so that Rayse believes that there would be a war when Shards of other worlds find out about its power.</p><p>Rosharans will often refer to any Invested Art as \"Surgebinding,\" though most cosmere scholars, like Khriss, would not consider such usage to be correct.</p>",
+        "chat": ""
+      },
+      "source": {},
+      "startingEquipment": [],
+      "identifier": "radiant",
+      "levels": 1,
+      "hitDice": "d10",
+      "hitDiceUsed": 1,
+      "advancement": [
+        {
+          "_id": "jiqoppQo9wUpd9Bh",
+          "type": "HitPoints",
+          "configuration": {},
+          "value": {}
+        },
+        {
+          "_id": "InAVNesKEeJHGoDB",
+          "type": "ItemGrant",
+          "configuration": {
+            "items": [],
+            "optional": false,
+            "spell": null
+          },
+          "value": {},
+          "level": 2,
+          "title": "",
+          "icon": null
+        }
+      ],
+      "spellcasting": {
+        "progression": "full",
+        "ability": "wis"
+      },
+      "wealth": "10GP"
+    },
+    "effects": [],
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "mCWQkJlrQsvwJoXi": 3
+    },
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.2.0",
+      "coreVersion": "11.315",
+      "createdTime": 1717080836935,
+      "modifiedTime": 1717081059379,
+      "lastModifiedBy": "mCWQkJlrQsvwJoXi"
+    }
+  }
+]
