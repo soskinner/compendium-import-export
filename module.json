@@ -1,0 +1,46 @@
+{
+    "id": "compendium-import-export",
+    "title": "Compendium Import/Export",
+    "description": "<p>Module to facilitate the import and export of compendium entries as JSON files, simplifying data management and transfer across different Foundry VTT instances.</p>",
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "12"
+    },
+    "authors": [
+      {
+        "name": "Sean Skinner",
+        "flags": {}
+      }
+    ],
+    "media": [
+      {
+        "type": "cover",
+        "url": "https://yourdomain.com/media/thumbnails/compendium-import-export-cover.webp",
+        "loop": false,
+        "flags": {}
+      }
+    ],
+    "esmodules": [
+      "scripts.js"
+    ],
+    "packs": [],
+    "packFolders": [],
+    "languages": [
+      {
+        "name": "English",
+        "lang": "en",
+        "path": "languages/en.json",
+        "flags": {}
+      }
+    ],
+    "relationships": {
+      "requires": [],
+      "recommends": []
+    },
+    "socket": false,
+    "protected": true,
+    "url": "https://yourwebsite.com",
+    "manifest": "https://foundryvtt.s3.your-region.amazonaws.com/modules/compendium-import-export/module.json"
+  }
+  
